@@ -45,8 +45,8 @@ class BankAccount
 int main()
 {
     BankAccount b[2]={
-        BankAccount(101, "Rajan", 5000),
-        BankAccount(102, "Akashay", 8000)
+    BankAccount(101, "Rajan", 5000),
+    BankAccount(102, "Akashay", 8000)
     };
     
     b[0].deposit(2000);
